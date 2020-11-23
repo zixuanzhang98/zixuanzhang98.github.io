@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zixuan | 子轩</title>
+        <link>https://zixuanzhang98.github.io/zh-cn/</link>
+        <description>This is My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zixuanzhang.x@gmail.com (ZiXuan | 子轩)</managingEditor>
+            <webMaster>zixuanzhang.x@gmail.com (ZiXuan | 子轩)</webMaster>
+            <atom:link href="https://zixuanzhang98.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
